@@ -5,7 +5,7 @@
 
     <application
         android:allowBackup="false"
-        android:label="Донбассгаз"
+        android:label="DonbassGaz"
         android:usesCleartextTraffic="true"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
 
