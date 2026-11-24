@@ -5,7 +5,7 @@
 
     <application
         android:allowBackup="false"
-        android:label="Оплата газа"
+        android:label="DonbassGazz"
         android:theme="@style/Theme.AppCompat.Light.NoActionBar">
 
         <activity
